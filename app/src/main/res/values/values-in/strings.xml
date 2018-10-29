@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <?xml version="1.0" encoding="utf-8"?>
+    <resources>
+
+        <string name="app_name">Catalog_Movie</string>
+        <string name="venom">VENOM</string>
+
+        <string name="the_seven_deadly_sins_prisoners_of_the_sky_august_18_2018">
+        Tujuh Dosa Mematikan dari Langit
+         18 Agustus 2018</string>
+        <string name="incredibles_2_june_15_2018">INCREDIBLES 2</string>
+        <string name="Venom">VENOM</string>
+        <string name="october_5_2018_n_when_eddie_brock_acquires_the_powers_of_a_symbiote_he_will_have_to_release_his_alter_ego_venom_to_save_his_life">
+        5 Oktober 2018,Ketika Eddie Brock Mengakuisisi Kekuasaan Dari
+        Simbiosis yang Akan Dia Lepaskan Alter Ego-nya "VENOM" untuk Menyelamatkan Nyawa</string>
+        <string name="hallowen">HALLOWEN</string>
+        <string name="halloween_october_19_2018_laurie_strode_comes_to_her_final_confrontation_with_michael_myers_the_masked_figure_who_has_haunted_her_since_she_narrowly_escaped_his_killing_spree_on_halloween_night_four_decades_ago">
+        Hallowen 19 Oktober 2018,Laurie Strode Datang ke Konfrontasi Terakhirnya Dengan Michael Myers,
+        Tokoh Tersembunyi yang Telah Menghantuinya Karena Dia Secara Sempit
+        Luput dari Kebencian Membunuhnya Pada Malam Halloween Empat Dekade Yang Lalu</string>
+        <string name="the_seven_deadly_sins_prisoners_of_the_sky">Tujuh Dosa Mematikan dari Langit</string>
+        <string name="the_seven_deadly_sins_prisoners_of_the_sky_august_18_2018_traveling_in_search_of_the_rare_ingredient_sky_fish_meliodas_and_hawk_arrive_at_a_palace_that_floats_above_the_clouds_the_people_there_are_busy_preparing_a_ceremony_meant_to_protect_their_home_from_a_ferocious">
+        Tujuh Dosa Mematikan Langit 18 Agustus 2018 Bepergian Dalam Pencarian Bahan Langka Langit
+        Ikan Meliodas dan Elang Tiba di Istana Yang Mengapung di Atas Awan
+        Orang-orang Sibuk Mempersiapkan Upacara yang Dimaksudkan untuk Melindungi Rumah Mereka Dari Ganas</string>
+        <string name="incredibles_2">INCREDIBLES 2</string>
+        <string name="incredibles_2_june_15_2018_elastigirl_springs_into_action_to_save_the_day_while_mr_incredible_faces_his_greatest_challenge_yet_taking_care_of_the_problems_of_his_three_children">
+        Incredibles 2 15 Juni 2018 Elastigirl Springs Ke Aksi untuk menyelamatkan hari sementara
+        mr luar biasa menghadapi tantangan terbesarnya dalam menangani masalah ketiga anaknya</string>
+        <string name="halloween_october_19_2018">HALLOWEN</string>
+
+        <string name="honestly_don_t_know_what_everyone_s_talking_about_venom_is_fine_i_mean_it_s_not_great_there_were_a_few_moments_i_found_myself_thinking_this_bit_s_pretty_bad_why_did_they_do_this_and_a_lot_of_moments_i_found_myself_thinking_this_bit_s_pretty_good_but_they_still_probably_should_have_just_made_a_real_venom_movie_with_marvel">
+        Jujur tidak tahu apa yang semua orang berbicara tentang racun baik-baik saja yang saya maksud tidak besar di sana
+             Beberapa saat saya menemukan diri saya berpikir ini sangat buruk mengapa mereka melakukan ini dan banyak momen
+             Saya menemukan diri saya berpikir ini agak bagus, tetapi mereka mungkin seharusnya hanya membuat Venom asli
+             film dengan Marvel.</string>
+
+        <string name="written_by_gill_man_on_october_19_2018_a_semi_welcome_return_not_the_greatest_horror_film_to_hit_theater_screens_this_year_but_certainly_not_the_worst_it_unfortunately_lacks_the_finality_that_the_original_had_but_still_proves_to_be_an_effective_entry_in_a_franchise_known_for_its_inconsistency_in_quality">
+            Ditulis oleh Gill-Man pada 19 Oktober 2018 Kembalinya semi-selamat datang. Bukan film horor terhebat
+             untuk menabrak layar teater tahun ini tetapi tentu saja bukan yang terburuk. Sayangnya tidak memiliki finalitas
+             yang asli tetapi masih terbukti menjadi entri yang efektif dalam waralaba yang dikenal karena inkonsistensi dalam
+             kualitas.</string>
+    </resources>
+</resources>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detailmovie4Activity">
+
+    <ImageView
+        android:id="@+id/img-6"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/gambar5"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/incredibles_2"
+        android:textSize="18sp"
+        android:textStyle="bold"
+        android:layout_marginTop="270dp"
+        android:paddingLeft="100dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="310dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="14sp"
+            android:text="@string/incredibles_2_june_15_2018_elastigirl_springs_into_action_to_save_the_day_while_mr_incredible_faces_his_greatest_challenge_yet_taking_care_of_the_problems_of_his_three_children"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

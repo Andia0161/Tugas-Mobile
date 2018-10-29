@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DetailmovieActivity">
+
+    <ImageView
+        android:id="@+id/img-6"
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:src="@drawable/gambar1"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/Venom"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginTop="270dp"
+        android:paddingLeft="130dp"
+        android:paddingBottom="30dp"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        tools:ignore="ExtraText">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="310dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="14sp"
+            android:paddingBottom="20dp"
+            android:text="@string/honestly_don_t_know_what_everyone_s_talking_about_venom_is_fine_i_mean_it_s_not_great_there_were_a_few_moments_i_found_myself_thinking_this_bit_s_pretty_bad_why_did_they_do_this_and_a_lot_of_moments_i_found_myself_thinking_this_bit_s_pretty_good_but_they_still_probably_should_have_just_made_a_real_venom_movie_with_marvel"/>
+    </LinearLayout>
+
+</RelativeLayout>

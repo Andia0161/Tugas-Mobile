@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Detailmovie2Activity">
+    <ImageView
+        android:id="@+id/img-6"
+        android:layout_width="match_parent"
+        android:src="@drawable/gambar2"
+        android:layout_height="250dp"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/hallowen"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        android:layout_marginTop="270dp"
+        android:paddingLeft="105dp"
+        android:paddingBottom="10dp"/>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="310dp"
+            android:layout_marginLeft="20dp"
+            android:textSize="14sp"
+            android:paddingRight="10dp"
+            android:text="@string/written_by_gill_man_on_october_19_2018_a_semi_welcome_return_not_the_greatest_horror_film_to_hit_theater_screens_this_year_but_certainly_not_the_worst_it_unfortunately_lacks_the_finality_that_the_original_had_but_still_proves_to_be_an_effective_entry_in_a_franchise_known_for_its_inconsistency_in_quality"/>
+    </LinearLayout>
+
+</RelativeLayout>

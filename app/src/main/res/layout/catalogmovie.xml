@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CatalogmovieActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img-1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/gambar1"/>
+
+        <TextView
+            android:id="@+id/edt-1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingRight="50dp"
+            android:paddingTop="5dp"
+            android:textStyle="bold"
+            android:text="@string/venom"
+            android:textSize="16sp"/>
+
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img-2"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="110dp"
+            android:src="@drawable/gambar2" />
+
+        <TextView
+            android:id="@+id/edt-2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="100dp"
+            android:paddingRight="50dp"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:text="@string/hallowen_omes_to_her_final_confrontation_with_michael_myers" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img-3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="220dp"
+            android:src="@drawable/gambar4" />
+
+        <TextView
+            android:id="@+id/edt-3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="230dp"
+            android:textStyle="bold"
+            android:paddingRight="50dp"
+            android:textSize="20sp"
+            android:text="@string/the_seven_deadly_sins_prisoners_of_the_sky_august_18_2018" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:id="@+id/img-4"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_marginTop="320dp"
+            android:src="@drawable/gambar5"/>
+
+        <TextView
+            android:id="@+id/edt-4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingTop="330dp"
+            android:paddingRight="50dp"
+            android:textSize="18sp"
+            android:textStyle="bold"
+            android:text="@string/incredibles_2_elastigirl_springs_into_aaction_to_save_the_day_while_mr_incredible" />
+
+    </LinearLayout>
+
+
+
+</RelativeLayout>
